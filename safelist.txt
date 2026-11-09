@@ -1,2 +1,1 @@
 # ScriptSync safelist - Name|date added. Edited with /safelist in game.
-itzvenzi|2026-11-09
