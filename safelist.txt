@@ -1,1 +1,1 @@
-# ScriptSync safelist - Name|date added. Edited with /safelist in game.
+# ScriptSync safelist - Name|date added|text. Edited in game.
