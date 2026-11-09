@@ -1,3 +1,4 @@
 # ScriptSync safelist - Name|date added|text. Edited in game.
 pilsjes|2026-11-09|Da goat
 redspeedi|2026-11-09|cleaning hypixel
+jumpingwsadness|2026-11-09|fish
